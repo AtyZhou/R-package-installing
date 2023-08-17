@@ -1,6 +1,6 @@
 # R-package-installing
 
-
+~~~shell
 #R package installed way
 
 .libPaths()
